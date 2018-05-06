@@ -1,6 +1,7 @@
 import { createStackNavigator } from "react-navigation";
 
 import SearchScreen from "../ui/SearchScreen/SearchScreen";
+import DetailsScreen from "../ui/DetailsScreen/DetailsScreen";
 import { colours } from "../common/constants";
 
 const navigationOptions = {
@@ -16,6 +17,14 @@ const AppMainStack = createStackNavigator({
     navigationOptions: () => ({
       ...navigationOptions,
       title: "Search"
+    })
+  },
+  DetailsScreen: {
+    screen: DetailsScreen,
+    path: "details",
+    navigationOptions: ({ navigation }) => ({
+      ...navigationOptions,
+      title: navigation.state.params.item.name
     })
   }
 });
