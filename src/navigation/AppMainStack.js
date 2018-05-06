@@ -4,7 +4,7 @@ import SearchScreen from "../ui/SearchScreen/SearchScreen";
 import { colours } from "../common/constants";
 
 const navigationOptions = {
-  headerTintColor: "#FFFFFF",
+  headerTintColor: colours.white,
   headerStyle: { backgroundColor: colours.mintyMellow },
   headerMode: "screen"
 };

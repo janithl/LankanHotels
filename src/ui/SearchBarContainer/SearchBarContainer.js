@@ -2,7 +2,7 @@ import React from "react";
 import { SearchBar } from "react-native-elements";
 import PropTypes from "prop-types";
 
-export const SearchBarContainer = ({ query, onChange, onSubmit }) => (
+export const SearchBarContainer = ({ onChange, onSubmit }) => (
   <SearchBar
     onChangeText={onChange}
     onClearText={onChange}
@@ -11,7 +11,6 @@ export const SearchBarContainer = ({ query, onChange, onSubmit }) => (
 );
 
 SearchBarContainer.propTypes = {
-  query: PropTypes.string.isRequired,
   onChange: PropTypes.func.isRequired,
   onSubmit: PropTypes.func.isRequired
 };
