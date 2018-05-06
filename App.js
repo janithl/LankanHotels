@@ -1,11 +1,6 @@
 import React from "react";
-import { View } from "react-native";
-import { SearchBar } from "./src/ui/SearchBar/SearchBar";
+import AppMainStack from "./src/navigation/AppMainStack";
 
-const App = () => (
-  <View style={{ flex: 1, backgroundColor: "#c99" }}>
-    <SearchBar query={"Hello World"} onChange={() => {}} onSubmit={() => {}} />
-  </View>
-);
+const App = () => <AppMainStack />;
 
 export default App;
