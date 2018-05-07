@@ -1,6 +1,7 @@
 import React from "react";
 import { View } from "react-native";
 import PropTypes from "prop-types";
+import { trim } from "lodash";
 
 import { SearchBarContainer } from "../SearchBarContainer/SearchBarContainer";
 import { SearchResultList } from "../SearchResultList/SearchResultList";
@@ -20,7 +21,7 @@ class SearchScreen extends React.Component {
    */
   constructor(props) {
     super(props);
-    this.state = { items: [] };
+    this.state = { items: SearchEngine.search("") };
     this.goToDetails = this.goToDetails.bind(this);
   }
 
@@ -44,7 +45,7 @@ class SearchScreen extends React.Component {
         <SearchBarContainer
           onChange={text => {
             this.setState({
-              items: SearchEngine.search(text)
+              items: SearchEngine.search(trim(text).toUpperCase())
             });
           }}
           onSubmit={() => {}}

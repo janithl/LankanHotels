@@ -1,4 +1,4 @@
-import { trim } from "lodash";
+import { sortBy } from "lodash";
 
 const data = require("./data.json");
 
@@ -15,9 +15,7 @@ export default class SearchEngine {
    * @memberof SearchEngine
    */
   static search(query, field = "name") {
-    return trim(query).length > 0
-      ? data.filter(item => item[field].indexOf(trim(query).toUpperCase()) > -1)
-      : [];
+    return sortBy(data.filter(item => item[field].indexOf(query) > -1), "name");
   }
 
   /**
