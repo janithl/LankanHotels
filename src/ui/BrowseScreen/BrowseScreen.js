@@ -15,7 +15,7 @@ const BrowseScreen = ({ navigation }) => (
         navigation.state.params.filter
       )}
       goToDetails={item =>
-        navigation.navigate("DetailsScreen", {
+        navigation.push("DetailsScreen", {
           item
         })
       }
