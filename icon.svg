@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="akaraw.svg">
+   sodipodi:docname="akaraw.svg"
+   inkscape:export-filename="/home/janith/documents/janith/akaraw.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28229029"
-     inkscape:cx="616.98011"
-     inkscape:cy="676.12598"
+     inkscape:zoom="0.32198736"
+     inkscape:cx="-79.591467"
+     inkscape:cy="752.7979"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -44,13 +47,12 @@
      id="defs4">
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath4355">
+       id="clipPath4187">
       <path
-         sodipodi:nodetypes="sccscs"
          inkscape:connector-curvature="0"
-         id="path4357"
-         d="M 276.70255,580.10512 C 48.877669,90.705065 499.60288,100.95156 499.60288,100.95156 l 24.79426,0 c 0,0 450.72517,-10.246525 222.90033,479.15353 -40.66406,87.35222 -235.29746,399.68423 -235.29746,399.68423 0,0 -194.6334,-312.33201 -235.29746,-399.6842 z"
-         style="fill:#7baf7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.78998005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         id="path4189"
+         d="m 775.60391,726.75827 a 372.79222,372.79222 0 0 0 0,-527.2078 372.79222,372.79222 0 0 0 -527.20781,-1e-5 372.79222,372.79222 0 0 0 0,527.20782 L 512,990.36216 775.60391,726.75827 Z"
+         style="opacity:1;fill:#7baf7e;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
   </defs>
   <metadata
@@ -70,6 +72,11 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      transform="translate(0,-28.362161)">
+    <path
+       style="opacity:1;fill:#7baf7e;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 775.60391,726.75827 a 372.79222,372.79222 0 0 0 0,-527.2078 372.79222,372.79222 0 0 0 -527.20781,-1e-5 372.79222,372.79222 0 0 0 0,527.20782 L 512,990.36216 775.60391,726.75827 Z"
+       id="path4178"
+       inkscape:connector-curvature="0" />
     <g
        id="g4144"
        transform="matrix(-1,0,0,1,429.58906,0)">
@@ -89,16 +96,10 @@
         </g>
       </g>
     </g>
-    <path
-       style="fill:#7baf7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.78998005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 276.70255,580.10512 C 48.877669,90.705065 499.60288,100.95156 499.60288,100.95156 l 24.79426,0 c 0,0 450.72517,-10.246525 222.90033,479.15353 -40.66406,87.35222 -235.29746,399.68423 -235.29746,399.68423 0,0 -194.6334,-312.33201 -235.29746,-399.6842 z"
-       id="path4293"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccscs" />
     <g
        id="g4276"
        style="fill:#000000;opacity:0.4"
-       clip-path="url(#clipPath4355)">
+       clip-path="url(#clipPath4187)">
       <g
          id="g4278"
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
