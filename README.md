@@ -5,7 +5,7 @@
 Lankan Hotels is a simple app to list down the details of Sri Lankan hotels as found on
 the Government of Sri Lanka's [Open Data Portal](http://www.data.gov.lk/).
 
-The data belongs to the Sri Lankan State and this product is completely open source (MIT).
+The data belongs to the Sri Lankan state and this product is completely open source (MIT).
 
 ## License
 
