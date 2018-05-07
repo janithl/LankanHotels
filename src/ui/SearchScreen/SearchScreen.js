@@ -1,11 +1,10 @@
 import React from "react";
 import { View } from "react-native";
-import PropTypes from "prop-types";
+import { SearchBar } from "react-native-elements";
 import { trim } from "lodash";
+import PropTypes from "prop-types";
 
-import { SearchBarContainer } from "../SearchBarContainer/SearchBarContainer";
 import { SearchResultList } from "../SearchResultList/SearchResultList";
-
 import SearchEngine from "../../common/SearchEngine";
 import { colours } from "../../common/constants";
 
@@ -42,13 +41,15 @@ class SearchScreen extends React.Component {
   render() {
     return (
       <View style={{ flex: 1, backgroundColor: colours.shepherd }}>
-        <SearchBarContainer
-          onChange={text => {
+        <SearchBar
+          onChangeText={text => {
             this.setState({
               items: SearchEngine.search(trim(text).toUpperCase())
             });
           }}
-          onSubmit={() => {}}
+          placeholder="Search Hotels..."
+          lightTheme
+          round
         />
         <SearchResultList
           items={this.state.items}
