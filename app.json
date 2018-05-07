@@ -1,7 +1,4 @@
 {
-  "expo": {
-    "sdkVersion": "26.0.0",
-    "slug": "akaraw",
-    "name": "akaraw"
-  }
+  "name": "LankanHotels",
+  "displayName": "Lankan Hotels"
 }

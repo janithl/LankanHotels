@@ -1,6 +1,7 @@
 import React from "react";
+import { AppRegistry } from "react-native";
 import AppMainStack from "./src/navigation/AppMainStack";
 
 const App = () => <AppMainStack />;
 
-export default App;
+AppRegistry.registerComponent("LankanHotels", () => App);
