@@ -6,7 +6,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.86942,
+    "longitude": 79.86942,
     "latitude": 7.143205,
     "type": "Tourist"
   },
@@ -17,7 +17,7 @@
     "district": "Galle",
     "division": "Hikkaduwa",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": 80.100061,
+    "longitude": 80.100061,
     "latitude": 6.134378,
     "type": "Tourist"
   },
@@ -28,7 +28,7 @@
     "district": "Matale",
     "division": "Matale",
     "council": "Matale Divisional Secretariat",
-    "logitiute": 80.925984,
+    "longitude": 80.925984,
     "latitude": 7.618698,
     "type": "Tourist"
   },
@@ -39,7 +39,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Kalutara Divisional Secretariat",
-    "logitiute": 79.935723,
+    "longitude": 79.935723,
     "latitude": 6.642573,
     "type": "Tourist"
   },
@@ -50,7 +50,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Kalutara Divisional Secretariat",
-    "logitiute": 79.948656,
+    "longitude": 79.948656,
     "latitude": 6.610027,
     "type": "Tourist"
   },
@@ -61,7 +61,7 @@
     "district": "Trincomalee",
     "division": "Trincomalee",
     "council": "Trincomalee Divisional Secretariat",
-    "logitiute": 81.218406,
+    "longitude": 81.218406,
     "latitude": 8.614524,
     "type": "Tourist"
   },
@@ -72,7 +72,7 @@
     "district": "Batticaloa",
     "division": "Batticaloa",
     "council": "Koralai Pattu Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -83,7 +83,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Kalutara Divisional Secretariat",
-    "logitiute": 79.960416,
+    "longitude": 79.960416,
     "latitude": 6.568479,
     "type": "Tourist"
   },
@@ -94,7 +94,7 @@
     "district": "Galle",
     "division": "Hikkaduwa",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": 80.102984,
+    "longitude": 80.102984,
     "latitude": 6.139194,
     "type": "Tourist"
   },
@@ -105,7 +105,7 @@
     "district": "Trincomalee",
     "division": "Trincomalee",
     "council": "Trincomalee Divisional Secretariat",
-    "logitiute": 81.215834,
+    "longitude": 81.215834,
     "latitude": 8.570034,
     "type": "Tourist"
   },
@@ -116,7 +116,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.6552693,
+    "longitude": 80.6552693,
     "latitude": 7.8221483,
     "type": "Tourist"
   },
@@ -127,7 +127,7 @@
     "district": "Galle",
     "division": "Hikkaduwa",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": 80.102295,
+    "longitude": 80.102295,
     "latitude": 6.129903,
     "type": "Tourist"
   },
@@ -138,7 +138,7 @@
     "district": "Hambantota",
     "division": "Hambantota",
     "council": "Thissamaharama Divisional Secretariat",
-    "logitiute": 81.331186,
+    "longitude": 81.331186,
     "latitude": 6.228965,
     "type": "Tourist"
   },
@@ -149,7 +149,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.841713,
+    "longitude": 79.841713,
     "latitude": 7.243757,
     "type": "Tourist"
   },
@@ -160,7 +160,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Galle Divisional Secretariat",
-    "logitiute": 80.194348,
+    "longitude": 80.194348,
     "latitude": 6.042663,
     "type": "Tourist"
   },
@@ -171,7 +171,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.8237105,
+    "longitude": 79.8237105,
     "latitude": 7.1680341,
     "type": "Tourist"
   },
@@ -182,7 +182,7 @@
     "district": "Hambantota",
     "division": "Thissamaharama",
     "council": "Thissamaharama Divisional Secretariat",
-    "logitiute": 81.291211,
+    "longitude": 81.291211,
     "latitude": 6.287747,
     "type": "Tourist"
   },
@@ -193,7 +193,7 @@
     "district": "Polonnaruwa",
     "division": "Polonnaruwa",
     "council": "Thamankaduwa Divisional Secretariat",
-    "logitiute": 80.992612,
+    "longitude": 80.992612,
     "latitude": 7.924354,
     "type": "Tourist"
   },
@@ -204,7 +204,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Kandy Divisional Secretariat",
-    "logitiute": 80.641491,
+    "longitude": 80.641491,
     "latitude": 7.286564,
     "type": "Tourist"
   },
@@ -215,7 +215,7 @@
     "district": "Matara",
     "division": "Matara",
     "council": "Dickwella Divisional Secretariat",
-    "logitiute": 80.685998,
+    "longitude": 80.685998,
     "latitude": 5.959117,
     "type": "Tourist"
   },
@@ -226,7 +226,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.284404,
+    "longitude": 80.284404,
     "latitude": 5.995887,
     "type": "Tourist"
   },
@@ -237,7 +237,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Ganga Ihala Korale Divisional Secretariat",
-    "logitiute": 80.625623,
+    "longitude": 80.625623,
     "latitude": 7.291288,
     "type": "Tourist"
   },
@@ -248,7 +248,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.841884,
+    "longitude": 79.841884,
     "latitude": 7.236983,
     "type": "Tourist"
   },
@@ -259,7 +259,7 @@
     "district": "Matale",
     "division": "Matale",
     "council": "Matale Divisional Secretariat",
-    "logitiute": 80.733751,
+    "longitude": 80.733751,
     "latitude": 7.899706,
     "type": "Tourist"
   },
@@ -270,7 +270,7 @@
     "district": "Galle",
     "division": "Hikkaduwa",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": 80.099676,
+    "longitude": 80.099676,
     "latitude": 6.136629,
     "type": "Tourist"
   },
@@ -281,7 +281,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.840848,
+    "longitude": 79.840848,
     "latitude": 7.228003,
     "type": "Tourist"
   },
@@ -292,7 +292,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.669359,
+    "longitude": 80.669359,
     "latitude": 7.903622,
     "type": "Tourist"
   },
@@ -303,7 +303,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Kandy Divisional Secretariat",
-    "logitiute": 80.645743,
+    "longitude": 80.645743,
     "latitude": 7.291327,
     "type": "Tourist"
   },
@@ -314,7 +314,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Kalutara Divisional Secretariat",
-    "logitiute": 79.9387718,
+    "longitude": 79.9387718,
     "latitude": 6.6289085,
     "type": "Tourist"
   },
@@ -325,7 +325,7 @@
     "district": "Badulla",
     "division": "Bandarawela Pradeshiya Sabha",
     "council": "Bandarawela Divisional Secretariat",
-    "logitiute": 80.989062,
+    "longitude": 80.989062,
     "latitude": 6.831583,
     "type": "Tourist"
   },
@@ -336,7 +336,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Wadduwa",
-    "logitiute": 79.934133,
+    "longitude": 79.934133,
     "latitude": 6.644964,
     "type": "Tourist"
   },
@@ -347,7 +347,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.2470003,
+    "longitude": 80.2470003,
     "latitude": 6.0104413,
     "type": "Tourist"
   },
@@ -358,7 +358,7 @@
     "district": "Galle",
     "division": "Hikkaduwa",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": 80.099433,
+    "longitude": 80.099433,
     "latitude": 6.138497,
     "type": "Tourist"
   },
@@ -369,7 +369,7 @@
     "district": "Hambantota",
     "division": "Hambantota",
     "council": "Tangalle Divisional Secretariat",
-    "logitiute": 80.7802,
+    "longitude": 80.7802,
     "latitude": 6.009518,
     "type": "Tourist"
   },
@@ -380,7 +380,7 @@
     "district": "Galle",
     "division": "Bentota Pradeshiya Sabha",
     "council": "Benthota Divisional Secretariat",
-    "logitiute": 79.9960523,
+    "longitude": 79.9960523,
     "latitude": 6.4245209,
     "type": "Tourist"
   },
@@ -391,7 +391,7 @@
     "district": "Galle",
     "division": "Bentota Pradeshiya Sabha",
     "council": "Benthota Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -402,7 +402,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya",
     "council": "Nuwara Eliya Divisional Secretariat",
-    "logitiute": 80.7637973,
+    "longitude": 80.7637973,
     "latitude": 6.9625923,
     "type": "Tourist"
   },
@@ -413,7 +413,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": 80.102953,
+    "longitude": 80.102953,
     "latitude": 6.129744,
     "type": "Tourist"
   },
@@ -424,7 +424,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": 80.095664,
+    "longitude": 80.095664,
     "latitude": 6.912643,
     "type": "Tourist"
   },
@@ -435,7 +435,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Benthota Divisional Secretariat",
-    "logitiute": 79.999999,
+    "longitude": 79.999999,
     "latitude": 6.42,
     "type": "Tourist"
   },
@@ -446,7 +446,7 @@
     "district": "Matara",
     "division": "Weligama Pradeshiya Sabha",
     "council": "Weligama Divisional Secretariat",
-    "logitiute": 80.407254,
+    "longitude": 80.407254,
     "latitude": 5.959899,
     "type": "Tourist"
   },
@@ -457,7 +457,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Doluwa Divisional Secretariat",
-    "logitiute": 80.589352,
+    "longitude": 80.589352,
     "latitude": 7.167381,
     "type": "Tourist"
   },
@@ -468,7 +468,7 @@
     "district": "Galle",
     "division": "Bentota Pradeshiya Sabha",
     "council": "Benthota Divisional Secretariat",
-    "logitiute": 79.9894613,
+    "longitude": 79.9894613,
     "latitude": 6.4373579,
     "type": "Tourist"
   },
@@ -479,7 +479,7 @@
     "district": "Badulla",
     "division": "Ella Pradeshiya Sabha",
     "council": "Ella Divisional Secretariat",
-    "logitiute": 81.048373,
+    "longitude": 81.048373,
     "latitude": 6.876185,
     "type": "Tourist"
   },
@@ -490,7 +490,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Ambalangoda Divisional Secretariat",
-    "logitiute": 80.046462,
+    "longitude": 80.046462,
     "latitude": 6.245428,
     "type": "Tourist"
   },
@@ -501,7 +501,7 @@
     "district": "Hambantota",
     "division": "Hambantota",
     "council": "Tangalle Divisional Secretariat",
-    "logitiute": 80.762216,
+    "longitude": 80.762216,
     "latitude": 6.002818,
     "type": "Tourist"
   },
@@ -512,7 +512,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.688691,
+    "longitude": 80.688691,
     "latitude": 7.929571,
     "type": "Tourist"
   },
@@ -523,7 +523,7 @@
     "district": "Badulla",
     "division": "Badulla",
     "council": "Badulla Divisional Secretariat",
-    "logitiute": 81.0715806,
+    "longitude": 81.0715806,
     "latitude": 6.8268869,
     "type": "Tourist"
   },
@@ -534,7 +534,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.840343,
+    "longitude": 79.840343,
     "latitude": 7.226821,
     "type": "Tourist"
   },
@@ -545,7 +545,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Ganga Ihala Korale Divisional Secretariat",
-    "logitiute": 80.632433,
+    "longitude": 80.632433,
     "latitude": 7.261332,
     "type": "Tourist"
   },
@@ -556,7 +556,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Ganga Ihala Korale Divisional Secretariat",
-    "logitiute": 80.646196,
+    "longitude": 80.646196,
     "latitude": 7.284489,
     "type": "Tourist"
   },
@@ -567,7 +567,7 @@
     "district": "Matara",
     "division": "Weligama Pradeshiya Sabha",
     "council": "Weligama Divisional Secretariat",
-    "logitiute": 80.418936,
+    "longitude": 80.418936,
     "latitude": 5.959292,
     "type": "Tourist"
   },
@@ -578,7 +578,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya",
     "council": "Nuwara Eliya Divisional Secretariat",
-    "logitiute": 80.763416,
+    "longitude": 80.763416,
     "latitude": 6.970311,
     "type": "Tourist"
   },
@@ -589,7 +589,7 @@
     "district": "Polonnaruwa",
     "division": "Polonnaruwa",
     "council": "Polonnaruwa Divisional Secretariat",
-    "logitiute": 80.988284,
+    "longitude": 80.988284,
     "latitude": 7.959284,
     "type": "Tourist"
   },
@@ -600,7 +600,7 @@
     "district": "Hambantota",
     "division": "Hambantota",
     "council": "Hambantota Divisional Secretariat",
-    "logitiute": 81.331018,
+    "longitude": 81.331018,
     "latitude": 6.412938,
     "type": "Tourist"
   },
@@ -611,7 +611,7 @@
     "district": "Gampaha",
     "division": "Gampaha",
     "council": "Gampaha Divisional Secretariat",
-    "logitiute": 80.000686,
+    "longitude": 80.000686,
     "latitude": 7.053018,
     "type": "Tourist"
   },
@@ -622,7 +622,7 @@
     "district": "Polonnaruwa",
     "division": "Hingurakgoda Pradeshiya Sabha",
     "council": "Hingurakgoda Divisional Secretariat",
-    "logitiute": 80.926184,
+    "longitude": 80.926184,
     "latitude": 7.995609,
     "type": "Tourist"
   },
@@ -633,7 +633,7 @@
     "district": "Badulla",
     "division": "Haputale",
     "council": "Haputale Divisional Secretariat",
-    "logitiute": 80.952255,
+    "longitude": 80.952255,
     "latitude": 6.766203,
     "type": "Tourist"
   },
@@ -644,7 +644,7 @@
     "district": "Hambantota",
     "division": "Thissamaharama",
     "council": "Thissamaharama Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -655,7 +655,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Galle Divisional Secretariat",
-    "logitiute": 80.008537,
+    "longitude": 80.008537,
     "latitude": 6.376688,
     "type": "Tourist"
   },
@@ -666,7 +666,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.359938,
+    "longitude": 80.359938,
     "latitude": 5.973159,
     "type": "Tourist"
   },
@@ -677,7 +677,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Balapitiya Divisional Secretariat",
-    "logitiute": 80.024891,
+    "longitude": 80.024891,
     "latitude": 6.341,
     "type": "Tourist"
   },
@@ -688,7 +688,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Baduraliya",
-    "logitiute": 80.233872,
+    "longitude": 80.233872,
     "latitude": 6.582918,
     "type": "Tourist"
   },
@@ -699,7 +699,7 @@
     "district": "Puttalam",
     "division": "Wennappuwa Pradeshiya Sabha",
     "council": "Wennappuwa Divisional Secretariat",
-    "logitiute": 79.840704,
+    "longitude": 79.840704,
     "latitude": 7.305658,
     "type": "Tourist"
   },
@@ -710,7 +710,7 @@
     "district": "Kalutara",
     "division": "Beruwala Pradeshiya Sabha",
     "council": "Beruwala Divisional Secretariat",
-    "logitiute": 79.989498,
+    "longitude": 79.989498,
     "latitude": 6.443611,
     "type": "Tourist"
   },
@@ -721,7 +721,7 @@
     "district": "Puttalam",
     "division": "Nattandiya Pradeshiya Sabha",
     "council": "Nattandiya Divisional Secretariat",
-    "logitiute": 79.81845,
+    "longitude": 79.81845,
     "latitude": 7.40603,
     "type": "Tourist"
   },
@@ -732,7 +732,7 @@
     "district": "Galle",
     "division": "Hikkaduwa",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": 80.1012754,
+    "longitude": 80.1012754,
     "latitude": 6.1346957,
     "type": "Tourist"
   },
@@ -743,7 +743,7 @@
     "district": "Kalutara",
     "division": "Panadura Pradeshiya Sabha",
     "council": "Panadura Divisional Secretariat",
-    "logitiute": 79.902238,
+    "longitude": 79.902238,
     "latitude": 6.713466,
     "type": "Tourist"
   },
@@ -754,7 +754,7 @@
     "district": "Kalutara",
     "division": "Beruwala Pradeshiya Sabha",
     "council": "Beruwala Divisional Secretariat",
-    "logitiute": 79.985631,
+    "longitude": 79.985631,
     "latitude": 6.446616,
     "type": "Tourist"
   },
@@ -765,7 +765,7 @@
     "district": "Gampaha",
     "division": "Katunayake-Seeduwa",
     "council": "Katana Divisional Secretariat",
-    "logitiute": 79.918624,
+    "longitude": 79.918624,
     "latitude": 7.182871,
     "type": "Tourist"
   },
@@ -776,7 +776,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.8365076,
+    "longitude": 79.8365076,
     "latitude": 7.2336371,
     "type": "Tourist"
   },
@@ -787,7 +787,7 @@
     "district": "Ampara",
     "division": "Ampara",
     "council": "Pottuvil Divisional Secretariat",
-    "logitiute": 81.831336,
+    "longitude": 81.831336,
     "latitude": 6.850021,
     "type": "Tourist"
   },
@@ -798,7 +798,7 @@
     "district": "Gampaha",
     "division": "Katunayake-Seeduwa",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.841527,
+    "longitude": 79.841527,
     "latitude": 7.239711,
     "type": "Tourist"
   },
@@ -809,7 +809,7 @@
     "district": "Badulla",
     "division": "Ella Pradeshiya Sabha",
     "council": "Ella Divisional Secretariat",
-    "logitiute": 81.0602823,
+    "longitude": 81.0602823,
     "latitude": 6.8712053,
     "type": "Tourist"
   },
@@ -820,7 +820,7 @@
     "district": "Galle",
     "division": "Hikkaduwa",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": 80.118766,
+    "longitude": 80.118766,
     "latitude": 6.116199,
     "type": "Tourist"
   },
@@ -831,7 +831,7 @@
     "district": "Badulla",
     "division": "Bandarawela Pradeshiya Sabha",
     "council": "Bandarawela Divisional Secretariat",
-    "logitiute": 80.987658,
+    "longitude": 80.987658,
     "latitude": 6.833521,
     "type": "Tourist"
   },
@@ -842,7 +842,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.85484,
+    "longitude": 79.85484,
     "latitude": 7.190497,
     "type": "Tourist"
   },
@@ -853,7 +853,7 @@
     "district": "Matara",
     "division": "Kotapola Pradeshiya Sabha",
     "council": "Kotapola Divisional Secretariat",
-    "logitiute": 80.596512,
+    "longitude": 80.596512,
     "latitude": 6.389513,
     "type": "Tourist"
   },
@@ -864,7 +864,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Kalutara Divisional Secretariat",
-    "logitiute": 79.940258,
+    "longitude": 79.940258,
     "latitude": 6.629886,
     "type": "Tourist"
   },
@@ -875,7 +875,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.271503,
+    "longitude": 80.271503,
     "latitude": 5.998994,
     "type": "Tourist"
   },
@@ -886,7 +886,7 @@
     "district": "Anuradhapura",
     "division": "Anuradhapura",
     "council": "Anuradhapura East",
-    "logitiute": 80.418003,
+    "longitude": 80.418003,
     "latitude": 8.330308,
     "type": "Tourist"
   },
@@ -897,7 +897,7 @@
     "district": "Gampaha",
     "division": "Biyagama Pradeshiya Sabha",
     "council": "Biyagama Divisional Secretariat",
-    "logitiute": 80.005875,
+    "longitude": 80.005875,
     "latitude": 6.963166,
     "type": "Tourist"
   },
@@ -908,7 +908,7 @@
     "district": "Galle",
     "division": "Hikkaduwa",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -919,7 +919,7 @@
     "district": "Hambantota",
     "division": "Hambantota",
     "council": "Hambantota Divisional Secretariat",
-    "logitiute": 81.131521,
+    "longitude": 81.131521,
     "latitude": 6.133387,
     "type": "Tourist"
   },
@@ -930,7 +930,7 @@
     "district": "Kegalle",
     "division": "Dehiowita Pradeshiya Sabha",
     "council": "Dehiovita Divisional Secretariat",
-    "logitiute": 80.242826,
+    "longitude": 80.242826,
     "latitude": 6.965811,
     "type": "Tourist"
   },
@@ -941,7 +941,7 @@
     "district": "Badulla",
     "division": "Ella Pradeshiya Sabha",
     "council": "Ella Divisional Secretariat",
-    "logitiute": 81.009061,
+    "longitude": 81.009061,
     "latitude": 6.832354,
     "type": "Tourist"
   },
@@ -952,7 +952,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Gagawata",
-    "logitiute": 80.638068,
+    "longitude": 80.638068,
     "latitude": 7.293287,
     "type": "Tourist"
   },
@@ -963,7 +963,7 @@
     "district": "Gampaha",
     "division": "Katana Pradeshiya Sabha",
     "council": "Katana Divisional Secretariat",
-    "logitiute": 79.881486,
+    "longitude": 79.881486,
     "latitude": 7.111464,
     "type": "Tourist"
   },
@@ -974,7 +974,7 @@
     "district": "Ampara",
     "division": "Ampara",
     "council": "Pottuvil Divisional Secretariat",
-    "logitiute": 81.828488,
+    "longitude": 81.828488,
     "latitude": 6.837743,
     "type": "Tourist"
   },
@@ -985,7 +985,7 @@
     "district": "Gampaha",
     "division": "Wattala Pradeshiya Sabha",
     "council": "Wattala Divisional Secretariat",
-    "logitiute": 79.860648,
+    "longitude": 79.860648,
     "latitude": 7.034292,
     "type": "Tourist"
   },
@@ -996,7 +996,7 @@
     "district": "Gampaha",
     "division": "Attanagalla Pradeshiya Sabha",
     "council": "Attanagalla Divisional Secretariat",
-    "logitiute": 80.096877,
+    "longitude": 80.096877,
     "latitude": 7.14695,
     "type": "Tourist"
   },
@@ -1007,7 +1007,7 @@
     "district": "Polonnaruwa",
     "division": "Polonnaruwa",
     "council": "Thamankaduwa Divisional Secretariat",
-    "logitiute": 80.993733,
+    "longitude": 80.993733,
     "latitude": 7.923266,
     "type": "Tourist"
   },
@@ -1018,7 +1018,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.839776,
+    "longitude": 79.839776,
     "latitude": 7.225328,
     "type": "Tourist"
   },
@@ -1029,7 +1029,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Gagawata",
-    "logitiute": 80.642924,
+    "longitude": 80.642924,
     "latitude": 7.288387,
     "type": "Tourist"
   },
@@ -1040,7 +1040,7 @@
     "district": "Matara",
     "division": "Matara",
     "council": "Matara Divisional Secretariat",
-    "logitiute": 80.620954,
+    "longitude": 80.620954,
     "latitude": 5.943955,
     "type": "Tourist"
   },
@@ -1051,7 +1051,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Panadura Divisional Secretariat",
-    "logitiute": 79.922221,
+    "longitude": 79.922221,
     "latitude": 6.671541,
     "type": "Tourist"
   },
@@ -1062,7 +1062,7 @@
     "district": "Galle",
     "division": "Hikkaduwa",
     "council": "Hikkaduwa Divisional Secretariat",
-    "logitiute": 80.111157,
+    "longitude": 80.111157,
     "latitude": 6.123829,
     "type": "Tourist"
   },
@@ -1073,7 +1073,7 @@
     "district": "Kalutara",
     "division": "Panadura Pradeshiya Sabha",
     "council": "Panadura Divisional Secretariat",
-    "logitiute": 79.931298,
+    "longitude": 79.931298,
     "latitude": 6.653508,
     "type": "Tourist"
   },
@@ -1084,7 +1084,7 @@
     "district": "Gampaha",
     "division": "Gampaha",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.857376,
+    "longitude": 79.857376,
     "latitude": 7.265322,
     "type": "Tourist"
   },
@@ -1095,7 +1095,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya",
     "council": "Nuwara Eliya Divisional Secretariat",
-    "logitiute": 80.76234,
+    "longitude": 80.76234,
     "latitude": 6.963454,
     "type": "Tourist"
   },
@@ -1106,7 +1106,7 @@
     "district": "Gampaha",
     "division": "Gampaha",
     "council": "Kelaniya Divisional Secretariat",
-    "logitiute": 79.904795,
+    "longitude": 79.904795,
     "latitude": 6.968135,
     "type": "Tourist"
   },
@@ -1117,7 +1117,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Galle Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -1128,7 +1128,7 @@
     "district": "Puttalam",
     "division": "Puttalam Pradeshiya Sabha",
     "council": "Mahawa Divisional Secretariat",
-    "logitiute": 79.815459,
+    "longitude": 79.815459,
     "latitude": 7.41773,
     "type": "Tourist"
   },
@@ -1139,7 +1139,7 @@
     "district": "Moneragala",
     "division": "Hambantota",
     "council": "Katharagama Divisional Secretariat",
-    "logitiute": 81.329274,
+    "longitude": 81.329274,
     "latitude": 6.409072,
     "type": "Tourist"
   },
@@ -1150,7 +1150,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": 79.850427,
+    "longitude": 79.850427,
     "latitude": 6.908534,
     "type": "Tourist"
   },
@@ -1161,7 +1161,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Gagawata",
-    "logitiute": 80.630297,
+    "longitude": 80.630297,
     "latitude": 7.297024,
     "type": "Tourist"
   },
@@ -1172,7 +1172,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Balapitiya Divisional Secretariat",
-    "logitiute": 80.034545,
+    "longitude": 80.034545,
     "latitude": 6.308305,
     "type": "Tourist"
   },
@@ -1183,7 +1183,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Galle Divisional Secretariat",
-    "logitiute": 80.036511,
+    "longitude": 80.036511,
     "latitude": 6.263385,
     "type": "Tourist"
   },
@@ -1194,7 +1194,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Harispattuwa Divisional Secretariat",
-    "logitiute": 80.576826,
+    "longitude": 80.576826,
     "latitude": 7.319187,
     "type": "Tourist"
   },
@@ -1205,7 +1205,7 @@
     "district": "Gampaha",
     "division": "Jaffna",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.84064,
+    "longitude": 79.84064,
     "latitude": 7.227908,
     "type": "Tourist"
   },
@@ -1216,7 +1216,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Kandy Divisional Secretariat",
-    "logitiute": 80.723882,
+    "longitude": 80.723882,
     "latitude": 7.393303,
     "type": "Tourist"
   },
@@ -1227,7 +1227,7 @@
     "district": "Hambantota",
     "division": "Tangalle Pradeshiya Sabha",
     "council": "Tangalle Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -1238,7 +1238,7 @@
     "district": "Kalutara",
     "division": "Beruwala Pradeshiya Sabha",
     "council": "Beruwala Divisional Secretariat",
-    "logitiute": 79.977927,
+    "longitude": 79.977927,
     "latitude": 6.453929,
     "type": "Tourist"
   },
@@ -1249,7 +1249,7 @@
     "district": "Hambantota",
     "division": "Tangalle Pradeshiya Sabha",
     "council": "Tangalle Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -1260,7 +1260,7 @@
     "district": "Gampaha",
     "division": "Katana Pradeshiya Sabha",
     "council": "Katana Divisional Secretariat",
-    "logitiute": 79.881579,
+    "longitude": 79.881579,
     "latitude": 7.16576,
     "type": "Tourist"
   },
@@ -1271,7 +1271,7 @@
     "district": "Batticaloa",
     "division": "Kalkudha",
     "council": "Valaichchenai Divisional Secretariat",
-    "logitiute": 81.5593553,
+    "longitude": 81.5593553,
     "latitude": 7.9267033,
     "type": "Tourist"
   },
@@ -1282,7 +1282,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.724123,
+    "longitude": 80.724123,
     "latitude": 7.992861,
     "type": "Tourist"
   },
@@ -1293,7 +1293,7 @@
     "district": "Moneragala",
     "division": "Katharagama",
     "council": "Katharagama Divisional Secretariat",
-    "logitiute": 81.324962,
+    "longitude": 81.324962,
     "latitude": 6.400263,
     "type": "Tourist"
   },
@@ -1304,7 +1304,7 @@
     "district": "Jaffna",
     "division": "Jaffna",
     "council": "Jaffna Divisional Secretariat",
-    "logitiute": 80.028005,
+    "longitude": 80.028005,
     "latitude": 9.670882,
     "type": "Tourist"
   },
@@ -1315,7 +1315,7 @@
     "district": "Kurunegala",
     "division": "Nikaweratiya Pradeshiya Sabha",
     "council": "Nikaweratiya Divisional Secretariat",
-    "logitiute": 80.124388,
+    "longitude": 80.124388,
     "latitude": 7.738671,
     "type": "Tourist"
   },
@@ -1326,7 +1326,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Kandy Divisional Secretariat",
-    "logitiute": 80.627342,
+    "longitude": 80.627342,
     "latitude": 7.292234,
     "type": "Tourist"
   },
@@ -1337,7 +1337,7 @@
     "district": "Ratnapura",
     "division": "Thanamalwila Pradeshiya Sabha",
     "council": "Sevanagala Divisional Secretariat",
-    "logitiute": 80.964044,
+    "longitude": 80.964044,
     "latitude": 6.384522,
     "type": "Tourist"
   },
@@ -1348,7 +1348,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.735044,
+    "longitude": 80.735044,
     "latitude": 7.945932,
     "type": "Tourist"
   },
@@ -1359,7 +1359,7 @@
     "district": "Trincomalee",
     "division": "Kuchchaveli",
     "council": "Kuchchaveli Divisional Secretariat",
-    "logitiute": 81.135534,
+    "longitude": 81.135534,
     "latitude": 8.771857,
     "type": "Tourist"
   },
@@ -1370,7 +1370,7 @@
     "district": "Batticaloa",
     "division": "Kalkudha",
     "council": "Koralai Pattu Divisional Secretariat",
-    "logitiute": 81.569581,
+    "longitude": 81.569581,
     "latitude": 7.925952,
     "type": "Tourist"
   },
@@ -1381,7 +1381,7 @@
     "district": "Jaffna",
     "division": "Jaffna",
     "council": "Jaffna Divisional Secretariat",
-    "logitiute": 80.016663,
+    "longitude": 80.016663,
     "latitude": 9.66635,
     "type": "Tourist"
   },
@@ -1392,7 +1392,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.841109,
+    "longitude": 79.841109,
     "latitude": 7.232976,
     "type": "Tourist"
   },
@@ -1403,7 +1403,7 @@
     "district": "Mannar",
     "division": "Jaffna",
     "council": "Jaffna Divisional Secretariat",
-    "logitiute": 79.824493,
+    "longitude": 79.824493,
     "latitude": 9.028711,
     "type": "Tourist"
   },
@@ -1414,7 +1414,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.240417,
+    "longitude": 80.240417,
     "latitude": 6.009533,
     "type": "Tourist"
   },
@@ -1425,7 +1425,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.7348373,
+    "longitude": 80.7348373,
     "latitude": 7.9952951,
     "type": "Tourist"
   },
@@ -1436,7 +1436,7 @@
     "district": "Puttalam",
     "division": "Kalpitiya Pradeshiya Sabha",
     "council": "Kalpitiya Divisional Secretariat",
-    "logitiute": 79.75646,
+    "longitude": 79.75646,
     "latitude": 8.274467,
     "type": "Tourist"
   },
@@ -1447,7 +1447,7 @@
     "district": "Moneragala",
     "division": "Kalmunai",
     "council": "Moneragala Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -1458,7 +1458,7 @@
     "district": "Batticaloa",
     "division": "Batticaloa",
     "council": "Batticaloa Divisional Secretariat",
-    "logitiute": 81.574945,
+    "longitude": 81.574945,
     "latitude": 7.925871,
     "type": "Tourist"
   },
@@ -1469,7 +1469,7 @@
     "district": "Hambantota",
     "division": "Thissamaharama",
     "council": "Thissamaharama Divisional Secretariat",
-    "logitiute": 81.322712,
+    "longitude": 81.322712,
     "latitude": 6.360924,
     "type": "Tourist"
   },
@@ -1480,7 +1480,7 @@
     "district": "Galle",
     "division": "Weligama Pradeshiya Sabha",
     "council": "Weligama Divisional Secretariat",
-    "logitiute": 80.382426,
+    "longitude": 80.382426,
     "latitude": 5.965604,
     "type": "Tourist"
   },
@@ -1491,7 +1491,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya",
     "council": "Nuwara Eliya Divisional Secretariat",
-    "logitiute": 80.695354,
+    "longitude": 80.695354,
     "latitude": 7.057137,
     "type": "Tourist"
   },
@@ -1502,7 +1502,7 @@
     "district": "Batticaloa",
     "division": "Batticaloa",
     "council": "Batticaloa Divisional Secretariat",
-    "logitiute": 81.704865,
+    "longitude": 81.704865,
     "latitude": 7.728728,
     "type": "Tourist"
   },
@@ -1513,7 +1513,7 @@
     "district": "Hambantota",
     "division": "Thissamaharama",
     "council": "Thissamaharama Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -1524,7 +1524,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": 79.855167,
+    "longitude": 79.855167,
     "latitude": 6.895633,
     "type": "Tourist"
   },
@@ -1535,7 +1535,7 @@
     "district": "Gampaha",
     "division": "Wattala Pradeshiya Sabha",
     "council": "Wattala Divisional Secretariat",
-    "logitiute": 79.856054,
+    "longitude": 79.856054,
     "latitude": 7.051974,
     "type": "Tourist"
   },
@@ -1546,7 +1546,7 @@
     "district": "Puttalam",
     "division": "AKKARAIPATTU",
     "council": "Akkaraipattu Divisional Secretariat",
-    "logitiute": 79.826082,
+    "longitude": 79.826082,
     "latitude": 7.634506,
     "type": "Tourist"
   },
@@ -1557,7 +1557,7 @@
     "district": "Badulla",
     "division": "Haldummulla Pradeshiya Sabha",
     "council": "Haldummulla Divisional Secretariat",
-    "logitiute": 80.918766,
+    "longitude": 80.918766,
     "latitude": 6.759146,
     "type": "Tourist"
   },
@@ -1568,7 +1568,7 @@
     "district": "Galle",
     "division": "balapitiya",
     "council": "Balapitiya Divisional Secretariat",
-    "logitiute": 80.038594,
+    "longitude": 80.038594,
     "latitude": 6.291066,
     "type": "Tourist"
   },
@@ -1579,7 +1579,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.7343613,
+    "longitude": 80.7343613,
     "latitude": 7.9991963,
     "type": "Tourist"
   },
@@ -1590,7 +1590,7 @@
     "district": "Anuradhapura",
     "division": "Anuradhapura",
     "council": "Anuradhapura East",
-    "logitiute": 80.418972,
+    "longitude": 80.418972,
     "latitude": 8.330589,
     "type": "Tourist"
   },
@@ -1601,7 +1601,7 @@
     "district": "Batticaloa",
     "division": "Batticaloa",
     "council": "Koralai Pattu Divisional Secretariat",
-    "logitiute": 81.568689,
+    "longitude": 81.568689,
     "latitude": 7.921889,
     "type": "Tourist"
   },
@@ -1612,7 +1612,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.319034,
+    "longitude": 80.319034,
     "latitude": 5.990802,
     "type": "Tourist"
   },
@@ -1623,7 +1623,7 @@
     "district": "Anuradhapura",
     "division": "Anuradhapura",
     "council": "Anuradhapura East",
-    "logitiute": 80.416853,
+    "longitude": 80.416853,
     "latitude": 8.3523,
     "type": "Tourist"
   },
@@ -1634,7 +1634,7 @@
     "district": "Gampaha",
     "division": "Gampaha",
     "council": "Gampaha Divisional Secretariat",
-    "logitiute": 79.8418265581,
+    "longitude": 79.8418265581,
     "latitude": 7.2362224012,
     "type": "Tourist"
   },
@@ -1645,7 +1645,7 @@
     "district": "Batticaloa",
     "division": "Batticaloa",
     "council": "Valaichchenai Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "",
     "type": "Tourist"
   },
@@ -1656,7 +1656,7 @@
     "district": "Matara",
     "division": "Dickwella",
     "council": "Dickwella Divisional Secretariat",
-    "logitiute": 80.6728793,
+    "longitude": 80.6728793,
     "latitude": 5.9603013,
     "type": "Tourist"
   },
@@ -1667,7 +1667,7 @@
     "district": "Puttalam",
     "division": "Wennappuwa Pradeshiya Sabha",
     "council": "Wennappuwa Divisional Secretariat",
-    "logitiute": 79.839145,
+    "longitude": 79.839145,
     "latitude": 7.300199,
     "type": "Tourist"
   },
@@ -1678,7 +1678,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Kalutara Divisional Secretariat",
-    "logitiute": 79.8655563,
+    "longitude": 79.8655563,
     "latitude": 6.9101903,
     "type": "Tourist"
   },
@@ -1689,7 +1689,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "",
     "type": "Tourist"
   },
@@ -1700,7 +1700,7 @@
     "district": "Ampara",
     "division": "Ampara",
     "council": "Ninthavur Divisional Secretariat",
-    "logitiute": 81.8561523,
+    "longitude": 81.8561523,
     "latitude": 7.3213613,
     "type": "Tourist"
   },
@@ -1711,7 +1711,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Kalutara Divisional Secretariat",
-    "logitiute": 79.921694,
+    "longitude": 79.921694,
     "latitude": 6.673982,
     "type": "Tourist"
   },
@@ -1722,7 +1722,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya",
     "council": "Nuwara Eliya Divisional Secretariat",
-    "logitiute": 80.764481,
+    "longitude": 80.764481,
     "latitude": 6.967075,
     "type": "Tourist"
   },
@@ -1733,7 +1733,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Galle Divisional Secretariat",
-    "logitiute": 80.009107,
+    "longitude": 80.009107,
     "latitude": 6.384061,
     "type": "Tourist"
   },
@@ -1744,7 +1744,7 @@
     "district": "Batticaloa",
     "division": "Kalkudha",
     "council": "Koralai Pattu Divisional Secretariat",
-    "logitiute": 81.56346,
+    "longitude": 81.56346,
     "latitude": 7.92469,
     "type": "Tourist"
   },
@@ -1755,7 +1755,7 @@
     "district": "Trincomalee",
     "division": "Kuchchaveli",
     "council": "Kuchchaveli Divisional Secretariat",
-    "logitiute": 81.186779,
+    "longitude": 81.186779,
     "latitude": 8.7071,
     "type": "Tourist"
   },
@@ -1766,7 +1766,7 @@
     "district": "Hambantota",
     "division": "Thissamaharama",
     "council": "Hambantota Divisional Secretariat",
-    "logitiute": 81.313441,
+    "longitude": 81.313441,
     "latitude": 6.263005,
     "type": "Tourist"
   },
@@ -1777,7 +1777,7 @@
     "district": "Puttalam",
     "division": "Kalpitiya Pradeshiya Sabha",
     "council": "Kalpitiya Divisional Secretariat",
-    "logitiute": 79.736306,
+    "longitude": 79.736306,
     "latitude": 8.228088,
     "type": "Tourist"
   },
@@ -1788,7 +1788,7 @@
     "district": "Batticaloa",
     "division": "Batticaloa",
     "council": "Batticaloa Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "",
     "type": "Tourist"
   },
@@ -1799,7 +1799,7 @@
     "district": "Gampaha",
     "division": "Minuwangoda Pradeshiya Sabha",
     "council": "Minuwangoda Divisional Secretariat",
-    "logitiute": 80.036423,
+    "longitude": 80.036423,
     "latitude": 7.158602,
     "type": "Tourist"
   },
@@ -1810,7 +1810,7 @@
     "district": "Matara",
     "division": "Weligama Pradeshiya Sabha",
     "council": "Weligama Divisional Secretariat",
-    "logitiute": 80.411151,
+    "longitude": 80.411151,
     "latitude": 5.959346,
     "type": "Tourist"
   },
@@ -1821,7 +1821,7 @@
     "district": "Galle",
     "division": "balapitiya",
     "council": "Balapitiya Divisional Secretariat",
-    "logitiute": 80.036088,
+    "longitude": 80.036088,
     "latitude": 6.285364,
     "type": "Tourist"
   },
@@ -1832,7 +1832,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": 79.858337,
+    "longitude": 79.858337,
     "latitude": 6.917358,
     "type": "Tourist"
   },
@@ -1843,7 +1843,7 @@
     "district": "Kalutara",
     "division": "Panadura Pradeshiya Sabha",
     "council": "Panadura Divisional Secretariat",
-    "logitiute": 79.92146,
+    "longitude": 79.92146,
     "latitude": 6.676126,
     "type": "Tourist"
   },
@@ -1854,7 +1854,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.7348,
+    "longitude": 80.7348,
     "latitude": 7.948859,
     "type": "Tourist"
   },
@@ -1865,7 +1865,7 @@
     "district": "Kandy",
     "division": "Kandy",
     "council": "Pathahewaheta Divisional Secretariat",
-    "logitiute": 80.695649,
+    "longitude": 80.695649,
     "latitude": 7.220522,
     "type": "Tourist"
   },
@@ -1876,7 +1876,7 @@
     "district": "Kalutara",
     "division": "Beruwala Pradeshiya Sabha",
     "council": "Beruwala Divisional Secretariat",
-    "logitiute": 79.983237,
+    "longitude": 79.983237,
     "latitude": 6.448931,
     "type": "Tourist"
   },
@@ -1887,7 +1887,7 @@
     "district": "Polonnaruwa",
     "division": "Polonnaruwa",
     "council": "Thamankaduwa Divisional Secretariat",
-    "logitiute": 81.004945,
+    "longitude": 81.004945,
     "latitude": 7.927893,
     "type": "Tourist"
   },
@@ -1898,7 +1898,7 @@
     "district": "Matara",
     "division": "Weligama Pradeshiya Sabha",
     "council": "Weligama Divisional Secretariat",
-    "logitiute": 80.437662,
+    "longitude": 80.437662,
     "latitude": 5.973323,
     "type": "Tourist"
   },
@@ -1909,7 +1909,7 @@
     "district": "Trincomalee",
     "division": "Uppuveli Trinco Malee",
     "council": "Trincomalee Divisional Secretariat",
-    "logitiute": 81.217883,
+    "longitude": 81.217883,
     "latitude": 8.615049,
     "type": "Tourist"
   },
@@ -1920,7 +1920,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": 79.843264,
+    "longitude": 79.843264,
     "latitude": 6.934335,
     "type": "Tourist"
   },
@@ -1931,7 +1931,7 @@
     "district": "Kalutara",
     "division": "Panadura Pradeshiya Sabha",
     "council": "Panadura Divisional Secretariat",
-    "logitiute": 79.919552,
+    "longitude": 79.919552,
     "latitude": 6.678863,
     "type": "Tourist"
   },
@@ -1942,7 +1942,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.248263,
+    "longitude": 80.248263,
     "latitude": 6.011392,
     "type": "Tourist"
   },
@@ -1953,7 +1953,7 @@
     "district": "Trincomalee",
     "division": "Trincomalee",
     "council": "Trincomalee Divisional Secretariat",
-    "logitiute": 81.215262,
+    "longitude": 81.215262,
     "latitude": 8.618238,
     "type": "Tourist"
   },
@@ -1964,7 +1964,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya",
     "council": "Kothmale Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -1975,7 +1975,7 @@
     "district": "Gampaha",
     "division": "Wattala Pradeshiya Sabha",
     "council": "Wattala Divisional Secretariat",
-    "logitiute": 79.849384,
+    "longitude": 79.849384,
     "latitude": 7.078365,
     "type": "Tourist"
   },
@@ -1986,7 +1986,7 @@
     "district": "Matara",
     "division": "Matara",
     "council": "Matara Divisional Secretariat",
-    "logitiute": 80.529536,
+    "longitude": 80.529536,
     "latitude": 5.939338,
     "type": "Tourist"
   },
@@ -1997,7 +1997,7 @@
     "district": "Nuwara Eliya",
     "division": "Talawa Pradeshiya Sabha",
     "council": "Nuwara Eliya Divisional Secretariat",
-    "logitiute": 80.661498,
+    "longitude": 80.661498,
     "latitude": 6.941417,
     "type": "Tourist"
   },
@@ -2008,7 +2008,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.747583,
+    "longitude": 80.747583,
     "latitude": 8.000994,
     "type": "Tourist"
   },
@@ -2019,7 +2019,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.256339,
+    "longitude": 80.256339,
     "latitude": 6.003965,
     "type": "Tourist"
   },
@@ -2031,7 +2031,7 @@
     "district": "Hambantota",
     "division": "Thissamaharama",
     "council": "Thissamaharama Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -2042,7 +2042,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.336882,
+    "longitude": 80.336882,
     "latitude": 5.983588,
     "type": "Tourist"
   },
@@ -2053,7 +2053,7 @@
     "district": "Hambantota",
     "division": "Thissamaharama",
     "council": "Thissamaharama Divisional Secretariat",
-    "logitiute": 81.296807,
+    "longitude": 81.296807,
     "latitude": 6.292573,
     "type": "Tourist"
   },
@@ -2064,7 +2064,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya",
     "council": "Nuwara Eliya Divisional Secretariat",
-    "logitiute": 80.779097,
+    "longitude": 80.779097,
     "latitude": 6.94233,
     "type": "Tourist"
   },
@@ -2075,7 +2075,7 @@
     "district": "Moneragala",
     "division": "Wellawaya",
     "council": "Wellawaya Divisional Secretariat",
-    "logitiute": 81.104838,
+    "longitude": 81.104838,
     "latitude": 6.754837,
     "type": "Tourist"
   },
@@ -2086,7 +2086,7 @@
     "district": "Jaffna",
     "division": "Jaffna",
     "council": "Jaffna Divisional Secretariat",
-    "logitiute": 80.013588,
+    "longitude": 80.013588,
     "latitude": 9.664915,
     "type": "Tourist"
   },
@@ -2097,7 +2097,7 @@
     "district": "Matara",
     "division": "Dickwella",
     "council": "Dickwella Divisional Secretariat",
-    "logitiute": 80.656847,
+    "longitude": 80.656847,
     "latitude": 5.9571,
     "type": "Tourist"
   },
@@ -2108,7 +2108,7 @@
     "district": "Moneragala",
     "division": "Katharagama",
     "council": "Katharagama Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -2119,7 +2119,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Galle Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -2130,7 +2130,7 @@
     "district": "Galle",
     "division": "Bentota Pradeshiya Sabha",
     "council": "Benthota Divisional Secretariat",
-    "logitiute": 80.005415,
+    "longitude": 80.005415,
     "latitude": 6.395497,
     "type": "Tourist"
   },
@@ -2141,7 +2141,7 @@
     "district": "Trincomalee",
     "division": "Kuchchaveli",
     "council": "Kuchchaveli Divisional Secretariat",
-    "logitiute": 81.1990326,
+    "longitude": 81.1990326,
     "latitude": 8.6840867,
     "type": "Tourist"
   },
@@ -2152,7 +2152,7 @@
     "district": "Batticaloa",
     "division": "Kalkudha",
     "council": "Koralai Pattu Divisional Secretariat",
-    "logitiute": 81.5705004,
+    "longitude": 81.5705004,
     "latitude": 7.9258409,
     "type": "Tourist"
   },
@@ -2163,7 +2163,7 @@
     "district": "Badulla",
     "division": "Ella Pradeshiya Sabha",
     "council": "Ella Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -2174,7 +2174,7 @@
     "district": "Galle",
     "division": "Habaraduwa",
     "council": "Habaraduwa Divisional Secretariat",
-    "logitiute": 80.241116,
+    "longitude": 80.241116,
     "latitude": 6.011171,
     "type": "Tourist"
   },
@@ -2185,7 +2185,7 @@
     "district": "Batticaloa",
     "division": "Batticaloa",
     "council": "Batticaloa Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -2196,7 +2196,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.8421445,
+    "longitude": 79.8421445,
     "latitude": 7.2503138,
     "type": "Tourist"
   },
@@ -2207,7 +2207,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": 79.853385,
+    "longitude": 79.853385,
     "latitude": 6.900651,
     "type": "Tourist"
   },
@@ -2218,7 +2218,7 @@
     "district": "Kalutara",
     "division": "Kalutara",
     "council": "Kalutara Divisional Secretariat",
-    "logitiute": 79.945675,
+    "longitude": 79.945675,
     "latitude": 6.616287,
     "type": "Tourist"
   },
@@ -2229,7 +2229,7 @@
     "district": "Kalutara",
     "division": "Kalutara Pradeshiya Sabha",
     "council": "Kalutara Divisional Secretariat",
-    "logitiute": 79.9626948,
+    "longitude": 79.9626948,
     "latitude": 6.5659178,
     "type": "Tourist"
   },
@@ -2240,7 +2240,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.736974,
+    "longitude": 80.736974,
     "latitude": 7.993996,
     "type": "Tourist"
   },
@@ -2251,7 +2251,7 @@
     "district": "Puttalam",
     "division": "Wennappuwa Pradeshiya Sabha",
     "council": "Wennappuwa Divisional Secretariat",
-    "logitiute": 79.859314,
+    "longitude": 79.859314,
     "latitude": 7.2713071,
     "type": "Tourist"
   },
@@ -2262,7 +2262,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": 79.8438746,
+    "longitude": 79.8438746,
     "latitude": 6.9340366,
     "type": "Tourist"
   },
@@ -2273,7 +2273,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya",
     "council": "Nuwara Eliya Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": 80.7916431,
     "type": "Tourist"
   },
@@ -2284,7 +2284,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.8593549,
+    "longitude": 79.8593549,
     "latitude": 7.185642,
     "type": "Tourist"
   },
@@ -2295,7 +2295,7 @@
     "district": "Puttalam",
     "division": "Wennappuwa Pradeshiya Sabha",
     "council": "Wennappuwa Divisional Secretariat",
-    "logitiute": 79.850688,
+    "longitude": 79.850688,
     "latitude": 7.351218,
     "type": "Tourist"
   },
@@ -2306,7 +2306,7 @@
     "district": "Ampara",
     "division": "MC",
     "council": "Pottuvil Divisional Secretariat",
-    "logitiute": 81.830049,
+    "longitude": 81.830049,
     "latitude": 6.844021,
     "type": "Tourist"
   },
@@ -2317,7 +2317,7 @@
     "district": "Hambantota",
     "division": "Hambantota",
     "council": "Hambantota Divisional Secretariat",
-    "logitiute": 81.2773297,
+    "longitude": 81.2773297,
     "latitude": 6.2852469,
     "type": "Tourist"
   },
@@ -2328,7 +2328,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Ratmalana Divisional Secretariat",
-    "logitiute": 79.867102,
+    "longitude": 79.867102,
     "latitude": 6.833158,
     "type": "Tourist"
   },
@@ -2339,7 +2339,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": 79.8506874,
+    "longitude": 79.8506874,
     "latitude": 6.9117582,
     "type": "Tourist"
   },
@@ -2350,7 +2350,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -2361,7 +2361,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Thimbirigasyaya Divisional Secretariat",
-    "logitiute": 79.853611,
+    "longitude": 79.853611,
     "latitude": 6.900092,
     "type": "Tourist"
   },
@@ -2372,7 +2372,7 @@
     "district": "Kalutara",
     "division": "Panadura Pradeshiya Sabha",
     "council": "Panadura Divisional Secretariat",
-    "logitiute": 79.906137,
+    "longitude": 79.906137,
     "latitude": 6.70343,
     "type": "Tourist"
   },
@@ -2383,7 +2383,7 @@
     "district": "Galle",
     "division": "MC",
     "council": "Ambalangoda Divisional Secretariat",
-    "logitiute": 80.048715,
+    "longitude": 80.048715,
     "latitude": 6.243021,
     "type": "Tourist"
   },
@@ -2394,7 +2394,7 @@
     "district": "Matale",
     "division": "Dambulla Pradeshiya Sabha",
     "council": "Dambulla Divisional Secretariat",
-    "logitiute": 80.746197,
+    "longitude": 80.746197,
     "latitude": 7.991713,
     "type": "Tourist"
   },
@@ -2405,7 +2405,7 @@
     "district": "Galle",
     "division": "Galle",
     "council": "Galle Divisional Secretariat",
-    "logitiute": 80.181293,
+    "longitude": 80.181293,
     "latitude": 6.052113,
     "type": "Tourist"
   },
@@ -2416,7 +2416,7 @@
     "district": "Kegalle",
     "division": "Kegalle",
     "council": "Rambukkana Divisional Secretariat",
-    "logitiute": 80.385678,
+    "longitude": 80.385678,
     "latitude": 7.301624,
     "type": "Tourist"
   },
@@ -2427,7 +2427,7 @@
     "district": "Matara",
     "division": "Weligama Pradeshiya Sabha",
     "council": "Weligama Divisional Secretariat",
-    "logitiute": 80.439411,
+    "longitude": 80.439411,
     "latitude": 5.973065,
     "type": "Tourist"
   },
@@ -2438,7 +2438,7 @@
     "district": "Jaffna",
     "division": "Nallur Pradeshiya Sabha",
     "council": "Nallur Divisional Secretariat",
-    "logitiute": 80.0239728,
+    "longitude": 80.0239728,
     "latitude": 9.6871291,
     "type": "Tourist"
   },
@@ -2449,7 +2449,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya",
     "council": "Nuwara Eliya Divisional Secretariat",
-    "logitiute": 80.764482,
+    "longitude": 80.764482,
     "latitude": 6.967075,
     "type": "Tourist"
   },
@@ -2460,7 +2460,7 @@
     "district": "Kandy",
     "division": "Gagawata Koralya",
     "council": "Gagawata",
-    "logitiute": 80.625303,
+    "longitude": 80.625303,
     "latitude": 7.273421,
     "type": "Tourist"
   },
@@ -2471,7 +2471,7 @@
     "district": "Colombo",
     "division": "Colombo",
     "council": "Colombo Divisional Secretariat",
-    "logitiute": 79.8500985,
+    "longitude": 79.8500985,
     "latitude": 6.9239319,
     "type": "Tourist"
   },
@@ -2482,7 +2482,7 @@
     "district": "Polonnaruwa",
     "division": "Thamankaduwa Pradeshiya Sabha",
     "council": "Thamankaduwa Divisional Secretariat",
-    "logitiute": 80.9860564,
+    "longitude": 80.9860564,
     "latitude": 7.9519377,
     "type": "Tourist"
   },
@@ -2493,7 +2493,7 @@
     "district": "Matale",
     "division": "Matale",
     "council": "Matale Divisional Secretariat",
-    "logitiute": "NULL",
+    "longitude": "NULL",
     "latitude": "NULL",
     "type": "Tourist"
   },
@@ -2504,7 +2504,7 @@
     "district": "Gampaha",
     "division": "Negombo",
     "council": "Negombo Divisional Secretariat",
-    "logitiute": 79.8233907,
+    "longitude": 79.8233907,
     "latitude": 7.1688026,
     "type": "Tourist"
   },
@@ -2515,7 +2515,7 @@
     "district": "Kalutara",
     "division": "Panadura Pradeshiya Sabha",
     "council": "Panadura Divisional Secretariat",
-    "logitiute": 79.923348,
+    "longitude": 79.923348,
     "latitude": 6.670724,
     "type": "Tourist"
   },
@@ -2526,7 +2526,7 @@
     "district": "Kandy",
     "division": "Kandy Divisional Secretariat",
     "council": "Kandy",
-    "logitiute": 80.635411,
+    "longitude": 80.635411,
     "latitude": 7.276036,
     "type": "Boutique"
   },
@@ -2537,7 +2537,7 @@
     "district": "Matara",
     "division": "Weligama Divisional Secretariat",
     "council": "Weligama Pradeshiya Sabha",
-    "logitiute": 80.409972,
+    "longitude": 80.409972,
     "latitude": 5.960334,
     "type": "Boutique"
   },
@@ -2548,7 +2548,7 @@
     "district": "Anuradhapura",
     "division": "Anuradhapura East",
     "council": "Anuradhapura",
-    "logitiute": 80.545063,
+    "longitude": 80.545063,
     "latitude": 8.205927,
     "type": "Boutique"
   },
@@ -2559,7 +2559,7 @@
     "district": "Galle",
     "division": "Galle Divisional Secretariat",
     "council": "Galle",
-    "logitiute": 80.217563,
+    "longitude": 80.217563,
     "latitude": 6.026649,
     "type": "Boutique"
   },
@@ -2570,7 +2570,7 @@
     "district": "Matale",
     "division": "N/A",
     "council": "Matale",
-    "logitiute": 80.710743,
+    "longitude": 80.710743,
     "latitude": 7.943525,
     "type": "Boutique"
   },
@@ -2581,7 +2581,7 @@
     "district": "Hambantota",
     "division": "Tangalle Divisional Secretariat",
     "council": "Tangalle Pradeshiya Sabha",
-    "logitiute": 80.777376,
+    "longitude": 80.777376,
     "latitude": 6.006174,
     "type": "Boutique"
   },
@@ -2592,7 +2592,7 @@
     "district": "Galle",
     "division": "Galle Divisional Secretariat",
     "council": "Galle",
-    "logitiute": 80.134978,
+    "longitude": 80.134978,
     "latitude": 6.094732,
     "type": "Boutique"
   },
@@ -2603,7 +2603,7 @@
     "district": "Hambantota",
     "division": "Tangalle Divisional Secretariat",
     "council": "Tangalle Pradeshiya Sabha",
-    "logitiute": 80.855462,
+    "longitude": 80.855462,
     "latitude": 6.047336,
     "type": "Boutique"
   },
@@ -2614,7 +2614,7 @@
     "district": "Galle",
     "division": "Benthota Divisional Secretariat",
     "council": "Bentota Pradeshiya Sabha",
-    "logitiute": 79.999034,
+    "longitude": 79.999034,
     "latitude": 6.414093,
     "type": "Boutique"
   },
@@ -2625,7 +2625,7 @@
     "district": "Galle",
     "division": "Galle Divisional Secretariat",
     "council": "Galle",
-    "logitiute": 80.004447,
+    "longitude": 80.004447,
     "latitude": 6.395518,
     "type": "Boutique"
   },
@@ -2636,7 +2636,7 @@
     "district": "Matara",
     "division": "Matara Divisional Secretariat",
     "council": "Weligama Pradeshiya Sabha",
-    "logitiute": 80.453836,
+    "longitude": 80.453836,
     "latitude": 5.964016,
     "type": "Boutique"
   },
@@ -2647,7 +2647,7 @@
     "district": "Matale",
     "division": "Matale Divisional Secretariat",
     "council": "Matale",
-    "logitiute": 80.720275,
+    "longitude": 80.720275,
     "latitude": 7.92971,
     "type": "Boutique"
   },
@@ -2658,7 +2658,7 @@
     "district": "Galle",
     "division": "Galle Divisional Secretariat",
     "council": "Galle",
-    "logitiute": 80.19736,
+    "longitude": 80.19736,
     "latitude": 6.044845,
     "type": "Boutique"
   },
@@ -2669,7 +2669,7 @@
     "district": "Colombo",
     "division": "Colombo Divisional Secretariat",
     "council": "Colombo",
-    "logitiute": 79.869959,
+    "longitude": 79.869959,
     "latitude": 6.915033,
     "type": "Boutique"
   },
@@ -2680,7 +2680,7 @@
     "district": "Kurunegala",
     "division": "Polpithigama Divisional Secretariat",
     "council": "Polpithigama Pradeshiya Sabha",
-    "logitiute": 80.512511,
+    "longitude": 80.512511,
     "latitude": 7.726939,
     "type": "Boutique"
   },
@@ -2691,7 +2691,7 @@
     "district": "Galle",
     "division": "Galle Divisional Secretariat",
     "council": "Galle",
-    "logitiute": 80.326424,
+    "longitude": 80.326424,
     "latitude": 5.986535,
     "type": "Boutique"
   },
@@ -2702,7 +2702,7 @@
     "district": "Colombo",
     "division": "Colombo Divisional Secretariat",
     "council": "Colombo",
-    "logitiute": 79.857693,
+    "longitude": 79.857693,
     "latitude": 6.888839,
     "type": "Boutique"
   },
@@ -2713,7 +2713,7 @@
     "district": "Galle",
     "division": "Galle Divisional Secretariat",
     "council": "Galle",
-    "logitiute": 80.216995,
+    "longitude": 80.216995,
     "latitude": 6.028977,
     "type": "Boutique"
   },
@@ -2724,7 +2724,7 @@
     "district": "Batticaloa",
     "division": "Koralai Pattu Divisional Secretariat",
     "council": "Batticaloa",
-    "logitiute": 81.561268,
+    "longitude": 81.561268,
     "latitude": 7.92839,
     "type": "Boutique"
   },
@@ -2735,7 +2735,7 @@
     "district": "Gampaha",
     "division": "Minuwangoda Divisional Secretariat",
     "council": "Minuwangoda Pradeshiya Sabha",
-    "logitiute": 79.927908,
+    "longitude": 79.927908,
     "latitude": 7.131981,
     "type": "Boutique"
   },
@@ -2746,7 +2746,7 @@
     "district": "Ratnapura",
     "division": "Kalawana Divisional Secretariat",
     "council": "Ratnapura",
-    "logitiute": 80.385872,
+    "longitude": 80.385872,
     "latitude": 6.514558,
     "type": "Boutique"
   },
@@ -2757,7 +2757,7 @@
     "district": "Matale",
     "division": "Pallepola Divisional Secretariat",
     "council": "Ahelapola",
-    "logitiute": 80.619922,
+    "longitude": 80.619922,
     "latitude": 7.621357,
     "type": "Boutique"
   },
@@ -2768,7 +2768,7 @@
     "district": "Nuwara Eliya",
     "division": "Nuwara Eliya Divisional Secretariat",
     "council": "Kotapola Pradeshiya Sabha",
-    "logitiute": 80.718066,
+    "longitude": 80.718066,
     "latitude": 6.929208,
     "type": "Boutique"
   },
@@ -2779,7 +2779,7 @@
     "district": "Galle",
     "division": "Galle Divisional Secretariat",
     "council": "Galle",
-    "logitiute": 80.2154963,
+    "longitude": 80.2154963,
     "latitude": 6.026844,
     "type": "Boutique"
   },
@@ -2790,7 +2790,7 @@
     "district": "Matale",
     "division": "Dambulla Divisional Secretariat",
     "council": "Dambulla Pradeshiya Sabha",
-    "logitiute": 80.7441833,
+    "longitude": 80.7441833,
     "latitude": 7.994399,
     "type": "Boutique"
   },
@@ -2801,7 +2801,7 @@
     "district": "Hambantota",
     "division": "Tangalle Divisional Secretariat",
     "council": "Tangalle Pradeshiya Sabha",
-    "logitiute": 80.8635393,
+    "longitude": 80.8635393,
     "latitude": 6.048141,
     "type": "Boutique"
   },
@@ -2812,7 +2812,7 @@
     "district": "Hambantota",
     "division": "Thissamaharama Divisional Secretariat",
     "council": "Thissamaharama",
-    "logitiute": 81.4064072,
+    "longitude": 81.4064072,
     "latitude": 6.2607399,
     "type": "Boutique"
   },
@@ -2823,7 +2823,7 @@
     "district": "Galle",
     "division": "Balapitiya Divisional Secretariat",
     "council": "balapitiya",
-    "logitiute": 80.0258226,
+    "longitude": 80.0258226,
     "latitude": 6.3405694,
     "type": "Boutique"
   }

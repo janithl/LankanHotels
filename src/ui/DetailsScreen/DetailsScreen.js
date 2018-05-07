@@ -16,19 +16,19 @@ const DetailsScreen = ({ navigation }) => {
     <View style={{ flex: 1, backgroundColor: colours.shepherd }}>
       <ScrollView>
         <ListItem
-          key={"rooms"}
+          key="rooms"
           leftIcon={{ name: "hotel" }}
           title={`${item.rooms} Rooms`}
           {...ListItemStyle}
         />
         <ListItem
-          key={"address"}
+          key="address"
           leftIcon={{ name: "location-on" }}
           title={item.address}
           {...ListItemStyle}
         />
         <ListItem
-          key={"district"}
+          key="district"
           leftIcon={{ name: "flag" }}
           title={`${item.district} District`}
           containerStyle={{ backgroundColor: colours.white }}
@@ -40,7 +40,7 @@ const DetailsScreen = ({ navigation }) => {
           }
         />
         <ListItem
-          key={"type"}
+          key="type"
           leftIcon={{ name: "grid-on" }}
           title={`${item.type} Hotel`}
           {...ListItemStyle}
